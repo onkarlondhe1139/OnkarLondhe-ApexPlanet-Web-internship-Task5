@@ -1,7 +1,13 @@
 # OnkarLondhe-ApexPlanet-Web-internship-Task5
 
 # Data Analyst Portfolio Website
+---
 
+## Output
+
+![Project Output](https://github.com/onkarlondhe1139/OnkarLondhe-ApexPlanet-Web-internship-Task5/blob/main/Output.png)
+
+---
 ## About The Project
 
 This project is designed as a professional portfolio for a Data Analyst and Data Science enthusiast. It highlights practical experience with Python, SQL, Excel, Power BI, dashboard development, data cleaning, exploratory data analysis, KPI tracking, and insight communication.
