@@ -142,8 +142,8 @@ Publish directory: public
 
 ### Onkar Londhe
 
-- Linkedin: onkarlondhe1139
-- GitHub: onkarlondhe1139
+- LinkedIn: [https://www.linkedin.com/in/onkarlondhe1139](https://www.linkedin.com/in/onkarlondhe1139)
+- GitHub: [https://github.com/onkarlondhe1139](https://github.com/onkarlondhe1139)
 - Email: onkarlondhe1139@gmail.com
 
 ---
